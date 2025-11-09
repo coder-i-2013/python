@@ -9,9 +9,9 @@ def main():
     print("Original image loaded sucsessfully")
 
     sizes= {
-        'small': (200,200)
-        'medium': (400,400)
-        'large': (600,600)
+        'small'; (200,200)
+        'medium'; (400,400)
+        'large'; (600,600)
     }
 
     for size name,dimensions in sizes.items():
